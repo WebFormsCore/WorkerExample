@@ -1,0 +1,8 @@
+﻿<Project Sdk="WebFormsCore.SDK.Wasm.LLVM/0.0.1-alpha.41">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+</Project>
